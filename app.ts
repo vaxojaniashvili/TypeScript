@@ -1,1 +1,1 @@
-const userName:string = "vaxo"
+const userName: string = "vaxo";
